@@ -1,6 +1,7 @@
 # Assignment_01
 直方图、高斯滤波、直方图均衡
-
+原图:  
+![](https://github.com/Heured/Assignment_01/blob/master/imgs/image_forTest.jpg)
 ## 直方图
   
   
