@@ -31,4 +31,5 @@ plt.ylim([0,11000])
 
 show()
   
-  
+效果图:  
+![](https://github.com/Heured/Assignment_01/blob/master/imgs/Zft.JPG)
