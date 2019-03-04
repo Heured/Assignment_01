@@ -30,6 +30,7 @@ plt.xlim([0,260])
 plt.ylim([0,11000])
 
 show()
-  
+
+```
 效果图:  
-![](https://github.com/Heured/Assignment_01/blob/master/imgs/Zft.JPG)
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
