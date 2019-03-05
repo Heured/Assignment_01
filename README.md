@@ -1,12 +1,16 @@
 # Assignment_01
 直方图、高斯滤波、直方图均衡  
   
-
+  
+ps：所需模块有pillow、scipy、pcv、matplotlib
+  
+  
 原图:  
 ![](https://github.com/Heured/Assignment_01/blob/master/imgs/image_forTest.jpg)
 ## 直方图
   
 图像轮廓线和图线等高线。在画图像轮廓前需要转换为灰度图像，因为轮廓需要获取每个坐标[x,y]位置的像素值。  
+  
   
 路径: [直方图](https://github.com/Heured/Assignment_01/blob/master/codes/zhiFangtu.py)  
 
