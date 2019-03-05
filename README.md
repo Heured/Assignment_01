@@ -2,7 +2,7 @@
 直方图、高斯滤波、直方图均衡  
   
   
-ps：所需模块有pillow、scipy、pcv、matplotlib
+ps：本次测试的运行环境为python2.7(其实python3也行)；所需模块有pillow、scipy、pcv、matplotlib
   
   
 原图:  
